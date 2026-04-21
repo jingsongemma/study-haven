@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # EnterpriseQA 企业内部知识库问答系统
 
 这是一个适合入门学习的 LangChain RAG 企业知识库问答 Agent 示例项目。
@@ -57,3 +58,7 @@ venv\Scripts\python.exe sync_vectors.py
 
 - 前端：http://127.0.0.1:5173/
 - 后端：http://127.0.0.1:5000/
+=======
+# study-haven
+用于日常学习记录
+>>>>>>> b13e714edb903349ec6eefd07b7dc64b077f8af7
