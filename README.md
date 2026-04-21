@@ -59,6 +59,4 @@ venv\Scripts\python.exe sync_vectors.py
 - 前端：http://127.0.0.1:5173/
 - 后端：http://127.0.0.1:5000/
 =======
-# study-haven
-用于日常学习记录
->>>>>>> b13e714edb903349ec6eefd07b7dc64b077f8af7
+
